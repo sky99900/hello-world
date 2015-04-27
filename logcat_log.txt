@@ -1,0 +1,67 @@
+--------- beginning of /dev/log/system
+--------- beginning of /dev/log/main
+03-23 15:47:11.995 D/dupre   ( 2932): CPUMath2
+03-23 15:47:11.995 D/dupre   ( 2932): reboot
+03-23 15:47:12.095 D/dupre   ( 2932): [TestTimer] mTatgetRecycleTime = 2
+03-23 15:47:12.115 D/dupre   ( 2932): CPUMath2 begin
+03-23 15:47:12.115 D/dupre   ( 2932): test period is 300
+03-23 15:47:12.195 D/dupre   ( 2932): turn off
+03-23 15:47:32.115 D/dupre   ( 2932): [Components] Loop
+03-23 15:47:32.155 D/dupre   ( 2932): TestLoopThread started!!
+03-23 15:47:32.155 D/dupre   ( 2932): TestLoopThread is invoked
+03-23 15:47:32.155 D/dupre   ( 2932): TestLoopList size is 1
+03-23 15:47:32.185 D/dupre   ( 2932): [TestLoopThread] end test
+03-23 15:47:32.185 D/dupre   ( 2932): [TestLoopThread] enter here
+03-23 15:52:12.165 D/dupre   ( 2932): [Components] Loop
+03-23 15:52:12.185 D/dupre   ( 2932): TestLoopList size is 1
+03-23 15:52:12.185 D/dupre   ( 2932): [TestLoopThread] end test
+03-23 15:52:12.185 D/dupre   ( 2932): end
+03-23 15:52:12.215 D/dupre   ( 2932): CPUMath2 begin
+03-23 15:52:12.215 D/dupre   ( 2932): test period is 300
+03-23 15:52:12.265 D/dupre   ( 3046): exit mathRun()
+03-23 15:52:12.265 D/dupre   ( 3046): exit mathRun()
+03-23 15:52:12.265 D/dupre   ( 3046): exit mathRun()
+03-23 15:52:12.265 D/dupre   ( 3046): exit mathRun()
+03-23 15:52:12.265 D/dupre   ( 2932): FakeAntutu completed task successfully
+03-23 15:57:12.225 D/dupre   ( 2932): [Components] Loop
+03-23 15:57:12.245 D/dupre   ( 3046): exit mathRun()
+03-23 15:57:12.245 D/dupre   ( 3046): exit mathRun()
+03-23 15:57:12.245 D/dupre   ( 3046): exit mathRun()
+03-23 15:57:12.245 D/dupre   ( 3046): exit mathRun()
+03-23 15:57:12.255 D/dupre   ( 2932): FakeAntutu completed task successfully
+03-23 15:57:12.465 D/dupre   ( 2932): TestLoopList size is 1
+03-23 15:57:12.465 D/dupre   ( 2932): [TestLoopThread] end test
+03-23 15:57:12.465 D/dupre   ( 2932): end
+03-23 15:57:12.465 D/dupre   ( 2932): [TestLoopThread] enter here
+03-23 15:57:13.225 D/dupre   ( 2932): current recycle 1
+03-23 15:57:13.235 D/dupre   ( 2932): target recycle 2
+03-23 15:57:13.235 D/dupre   ( 2932): priority table is 0
+03-23 15:57:14.235 D/dupre   ( 2932): CPUMath2 begin
+03-23 15:57:14.245 D/dupre   ( 2932): test period is 300
+03-23 15:57:14.785 D/dupre   ( 2932): turn off
+03-23 16:02:14.255 D/dupre   ( 2932): [Components] Loop
+03-23 16:02:14.345 D/dupre   ( 3046): exit mathRun()
+03-23 16:02:14.345 D/dupre   ( 3046): exit mathRun()
+03-23 16:02:14.345 D/dupre   ( 3046): exit mathRun()
+03-23 16:02:14.345 D/dupre   ( 3046): exit mathRun()
+03-23 16:02:14.375 D/dupre   ( 2932): TestLoopList size is 1
+03-23 16:02:14.385 D/dupre   ( 2932): [TestLoopThread] end test
+03-23 16:02:14.385 D/dupre   ( 2932): end
+03-23 16:02:14.385 D/dupre   ( 2932): CPUMath2 begin
+03-23 16:02:14.385 D/dupre   ( 2932): test period is 300
+03-23 16:02:14.385 D/dupre   ( 2932): FakeAntutu completed task successfully
+03-23 16:07:14.385 D/dupre   ( 2932): [Components] Loop
+03-23 16:07:14.415 D/dupre   ( 3046): exit mathRun()
+03-23 16:07:14.415 D/dupre   ( 3046): exit mathRun()
+03-23 16:07:14.415 D/dupre   ( 3046): exit mathRun()
+03-23 16:07:14.415 D/dupre   ( 3046): exit mathRun()
+03-23 16:07:14.415 D/dupre   ( 2932): TestLoopList size is 1
+03-23 16:07:14.415 D/dupre   ( 2932): [TestLoopThread] end test
+03-23 16:07:14.415 D/dupre   ( 2932): end
+03-23 16:07:14.415 D/dupre   ( 2932): [TestLoopThread] enter here
+03-23 16:07:14.425 D/dupre   ( 2932): FakeAntutu completed task successfully
+03-23 16:07:14.985 D/dupre   ( 2932): current recycle 2
+03-23 16:07:14.995 D/dupre   ( 2932): target recycle 2
+03-23 16:07:14.995 D/dupre   ( 2932): priority table is 0
+03-23 16:07:14.995 D/dupre   ( 2932): mCurrentRecucleTime >= mTargetRecycleTime
+03-23 16:07:15.025 D/dupre   ( 2932): turn off
